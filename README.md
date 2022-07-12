@@ -1,5 +1,5 @@
 # What this project is about?
-This project was created during my 1 term of my CS studies. It reads a file which contains a labirynth
+This project was created during my 1st term of my CS studies. It reads a file which contains a labirynth
 * 0 - no walls
 * 1 - right wall
 * 2 - down wall
